@@ -117,7 +117,6 @@ function addnnToVx(opcode, x) {
 
 	chip8.prevReg = chip8.v[x];
 	let val = (opcode & 0xff) + chip8.v[x];
-
 	chip8.updateRegister(x);
 
 	if(val > 255) {

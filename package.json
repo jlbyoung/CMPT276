@@ -10,12 +10,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KSSidhu/CMPT276.git"
+    "url": "git+https://github.com/jlbyoung/CMPT276.git"
   },
   "author": "Kirat Sidhu, Chamodi Basnayake, Adam Tran, James Young",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KSSidhu/CMPT276/issues"
+    "url": "https://github.com/jlbyoung/CMPT276/issues"
   },
-  "homepage": "https://github.com/KSSidhu/CMPT276#readme"
+  "homepage": "https://github.com/jlbyoung/CMPT276#readme"
 }
